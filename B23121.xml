@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the holy women that trust in God and do profess godliness with good works, according to the Apostle's doctrine in this age to read over and put in practice.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23121</idno>
+            <idno type="STC">Wing F1820</idno>
+            <idno type="STC">Interim Tract Supplement Guide 4151.de.6[7]</idno>
+            <idno type="STC">ESTC R220235</idno>
+            <idno type="EEBO-CITATION">99884961</idno>
+            <idno type="PROQUEST">ocm99884961</idno>
+            <idno type="VID">193376</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23121)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193376)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B6:3[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the holy women that trust in God and do profess godliness with good works, according to the Apostle's doctrine in this age to read over and put in practice.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed and dated at end: G.F. [i.e. George Fox]. The 9th of the 5th month 1686.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>"Concerning children and young people" has caption title on p. 6.</note>
+                  <note>Imperfect: staining on p. 1.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women --  Religious life --  Early works to 1800.</term>
+               <term>Women --  Conduct of life --  Early works to 1800.</term>
+               <term>Women and religion --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:193376:1"/>
+            <div type="part">
+               <head>For the holy Women that truſt in God and do profeſs Godlineſs with good Works, according to the Apoſtle's Doctrine in this Age to read over and put in Practice.</head>
+               <p>THE Apoſtle ſaith, <hi>I will therefore that Women adorn themſelves in modeſt Apparel, with Shame<g ref="char:EOLhyphen"/>facedneſs and Sobriety, and not with broided Hair, or Gold, or Pearls, or Coſtly Aray, but as becometh Women profeſſing Godlineſs with good Works,</hi> 1 <hi>Tim.</hi> 2.9, 10. And likewiſe <hi>Peter,</hi> ſaith, in his general Epiſtle to the Church of Chriſt, to the Women, <hi>whoſe Adorn<g ref="char:EOLhyphen"/>ing, let it not be that outward adorning of plaiting the Hair, and wearing of Gold, and of putting on of Apparel; but let it be the hidden man of the Heart, in that which is not Corruptible, even the ornament of a meek and quiet Spirit, which is in the ſight of God of a great price, for after this manner in old time the holy Women alſo who truſted in God adorned themſelves,</hi> 1 <hi>Pet.</hi> 3.3, 4, 5.</p>
+               <p>Now all Women may here conſider what is to be the practice of ſuch Women that profeſs Godlineſs, and truſt in God, their adorning is the hidden man of the Heart, which is Incorruptible, and their ornament is of a meek and quiet Spirit, which is in the ſight of God of a great Price; but thoſe Women whoſe outward adorning is with broided and plaited Hair, and Gold, and Pearls, and coſtly Aray, theſe are not the modeſt Apparels
+<pb n="2" facs="tcp:193376:2"/>which become Modeſt, Sober, Shamefaced Wome<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that profeſs Godlineſs with good Works; but ſuch as are Unſober, Unſhamefaced and Unmodeſt, ſuch look upon ſuch things to become them, are cloathed with corruptible and unquiet Spirits, that do not poſſeſs God<g ref="char:EOLhyphen"/>lineſs with good Works; and theſe outward Ornaments, as plating and broiding the Hair, and wearing of Gold, and Pearls, and coſtly Array; the Apoſtle ſaith, <hi>Do not become Women profeſsing Godlineſs with good Works;</hi> but them that do not profeſs Godlineſs, that are Shameleſs and Unſober, they may become ſuch Women that do not truſt in God, their corruptible Spirit may lead them to adorn themſelves with ſuch things, as is ſaid before, which the Apoſtle forbids; but the holy Women of God which profeſſed Godlineſs with good Works, and truſted in God, adorned them<g ref="char:EOLhyphen"/>ſelves not with plating the Hair, or wearing of Gold, or Pearls, or coſtly array; but with the hidden man of the Heart, in that which is not Corruptible, even the Ornament of a meek and quiet Spirit, which is in the ſight of God of a great price.</p>
+               <p>And now conſider alſo, you Women that profeſs Godlineſs, and go under the name of holy Women, and truſt in God, ſee that your ſelves, and your Children, and all your young Women are Adorned and Arrayed, and have on this Ornament, as the Apoſtle wills the Church of Chriſt to put on, as the holy Women did of Old, and be not of an unmeek and unquiet Spirit, and unſober and unſhamefaced, when you are admoniſhed and exhor<g ref="char:EOLhyphen"/>ted not to act contrary to the holy Women of old that truſted in God, and ſuch as profeſſed Godlineſs according to the Apoſtles Doctrine.</p>
+               <p>And here you may ſee what care the Apoſtles had to
+<pb n="3" facs="tcp:193376:2"/>keep the Saints, the Church of Chriſt, their Eyes, Minds and their Spirits above the wearing of Gold, plat<g ref="char:EOLhyphen"/>ing their Hair, and Pearls, and coſtly Aparrel, which was the Glory of the World, which the holy Women that truſted in God and profeſſed Godlineſs and good Works, theſe things were not to be their Adorning nor Orna<g ref="char:EOLhyphen"/>ments, but as is ſaid before, the hidden man of the Heart, which was not Corrupt, even the meek and quiet Spirit, which is with the Lord of a great price, and this ought to be, and is the Adornment and Ornament of all the holy Women that profeſs Godlineſs and good Works, and truſt in God.</p>
+               <p>And all you that have been convinced of the Lords Truth by his Spirit, take heed of <hi>Sathan</hi> taking you up into that Mountain, and then of his ſhewing you the Glory of the World, and then of your Minds and Eyes going after it, and receiving of it, and ſo in that you fall from the Spirit and Truth of God that did convince you, and then ſo to worſhip the Devil, the King of Pride, the God of the World, that abode not in the Truth, in whom there is no Truth, and then he to lead your Minds and Eyes after every new vain Faſhion of the World that paſſeth away, and that lieth in wickedneſs, and ſo draweth you into the Love of the World, which is Enmity to God, and into the Wiſdom of the World, by which ye do not know God, &amp; then to ſuch the Goſpel of Life and Salvation is hid, in whom the God of this World hath blinded their minds, and in ſuch diſobedient ones the Prince of the Air rules, and gets into them by diſobeying the Truth, and in ſuch Chriſt doth not rule in their hearts by Faith, and it is not like, when they make Shiprack of it, and a good Conſcience; and there<g ref="char:EOLhyphen"/>fore walk in the Light of Chriſt, and grow in his Grace,
+<pb n="4" facs="tcp:193376:3"/>and the Knowlege of the Lord Jeſus Chriſt that bruiſes the Serpents Head and deſtroys the Devil and his Works, that you may all be eſtabliſhed upon Chriſt the Rock and Foundation.</p>
+               <p>And if ye do believe in the Covenant of Light, Life and Grace, then, why do not you all train up your Chil<g ref="char:EOLhyphen"/>dren in the ſame? did not the Lord command the <hi>Jews</hi> to train up their Children in the old Covenant and teach them to walk in it? and were not all the Males to be Circumciſed? and they that were not Circumciſed were to be cut off from the Congregation of the Lord; ſo are not all you that profeſs the new Covenant of Grace, Light and Life, and the Goſpel of Salvation Preached to Every Creature, and the Grace of God which brings Salvation that hath appeared to all men, to teach them to live Godly, and to deny Ungodlineſs, &amp;c. (I ſay) are not you all to train up your Children and Families in this Light of the Goſpel and Grace of Chriſt which brings Salvation, and brings them into favour with God, that you may have the comfort of your Children in this World, and in that which is Everlaſting? and that they may be Circumciſed with the Spirit of God, which he poureth out upon all Fleſh, that with his Spiritual Cir<g ref="char:EOLhyphen"/>cumciſion the Body of Death and Sins of the Fleſh may be cut off, which are come into Man and Woman by Tranſgreſſion, that neither you nor they might dye in the Body of Death, and in the Sins of the Fleſh, and ſuch do not die in the Lord, for they that are not Cir<g ref="char:EOLhyphen"/>cumciſed with the Spiritual Circumciſion are cut off from the Heavenly <hi>Jeruſalem,</hi> and the Kingdom of God and Chriſt, and from the Church of the Living God written in Heaven: And therefore, if you will have the comfort of your Children in this World, and that which
+<pb n="5" facs="tcp:193376:3"/>is to come, train them up in the fear of God, and in his Covenant of Light and Grace, which Grace brings their Salvation, and brings them into favour with God, and into the Spiritual Baptiſm and Circumciſion, ſo that they may Serve and Worſhip the Living God in his Spirit and Truth, <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>And now, do not ſay but you are all warned in your Life time; and therefore priſe your time, while you have it, that you way ſpend it to the Honour and Glory of God.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:193376:4"/>
+               <head>Concerning Children and Young People.</head>
+               <p>AND if Children and young People muſt be left and let alone to themſelves, and not be Admoniſhed, Exhorted and Reſtrained from the Evil and Vanities of the World, then why did <hi>Moſes</hi> and the Prophets, and the Apoſtles, which were ſent of God, exhort the Peo<g ref="char:EOLhyphen"/>ple to train up their Children in the fear of the Lord, and to teach them his Law while they were Young, that they might not depart from it when they were Old? and if that they did, the Lord did Judge them, as ye may read in the Scriptures of Truth; and if that they muſt be left to themſelves, and not reſtrained from Evil, then how came it to paſs that old <hi>Ely</hi> loſt his Life, and his Prieſthood, and the Ark of God, for not reſtraining his Children from evil?</p>
+               <p>And again, if that they muſt be left to themſelves, why did the Prophets and the Apoſtles ſay, that they muſt not Quench, nor Vex, nor Grieve, nor Rebel againſt the Spirit of God, nor turn the Grace of God into Wanton<g ref="char:EOLhyphen"/>neſs, nor walk deſpitefully againſt the Spirit of Grace? but walk in the Spirit, and in the Truth, and in the Light, and to Love it, and not to Hate it; for they that do not Love it, the Light, but Hate it, are Condemed by it, and ſo grow in the Condemnation, and are not in the Juſtification of Life.</p>
+               <p>The Lord God commanded <hi>Abraham</hi> to Circumciſe himſelf and his Children, and ſervants that were Bought with Money, and were Born in his Houſe. He was to bring all his Males into this Covenant of outward Cir<g ref="char:EOLhyphen"/>cumciſion.
+<pb n="7" facs="tcp:193376:4"/>And the Lord ſaid, <hi>That Soul ſhall be cut off that is not Circumciſed, he hath broken my Covenant of outward Circumciſion,</hi> as you may ſee, <hi>Geneſis</hi> 17. Here you may ſee, <hi>Abraham</hi> was to teach and inſtruct his Fa<g ref="char:EOLhyphen"/>mily and Servants, and he was not to keep any Man or Servant that was Uncircumciſed in his Family.</p>
+               <p>Now you that profeſs the new Covenant, are not you, and all your Children and Servants to be Circumciſed with the Spirit of Circumciſion? and do not they that have not the Body of Death and the Sins of the Fleſh, cut off by Circumciſion, go down into the Pit, and not into the Paradiſe, and the Kingdom of God; and there<g ref="char:EOLhyphen"/>fore may not ſuch Uncircumciſed by the Spirit hurt the Families of true Chriſtians in the Light.</p>
+               <p>Therefore conſider <hi>Abraham</hi> was not to ſuffer any of his Children and Servants that were Bought with his Money, or Born in his Houſe to be Uncircumciſed, in the old Covenant, this care the Lord laid upon him, in his Family, in the old Covenant. Therefore conſider you that profeſs the new Covenant of the Spirit of Cir<g ref="char:EOLhyphen"/>cumciſion, what care lies upon you in your Families, of Teaching and Inſtructing your Servants and Children, and to bring them to the Spirit of Circumſicion.</p>
+            </div>
+            <closer>
+               <dateline>
+                  <date>The 9th of the 5th Month 1686.</date>
+               </dateline>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
